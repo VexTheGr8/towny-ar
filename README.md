@@ -1,2 +1,2 @@
-# townyar
+# towny ar
 Towny AR game
