@@ -16,11 +16,21 @@ struct ContentView: View {
     var body: some View {
         
         //title, menu and mail icon here
-        VStack {
+        HStack {
             
+            
+            //menu icon
+            Image(systemName: "line.3.horizontal")
+            
+            //title screen icon
             Text("Towny AR")
                 .font(.largeTitle)
                 .padding(.bottom, 10.0)
+            
+            
+            //mail icon
+            Image(systemName: "envelope.circle")
+            
             
         }
         
