@@ -4,10 +4,10 @@ An augmented reality sandbox game where plays can create towns, complete quests 
 
 
 Game Aspects:
--Social feature so users can share and play with other people
--Worlds that users can build and view in AR
--Towns that would combine worlds so users can collaborate with others
--Quests that will allow the user to go on adventures to collect items
+- Social feature so users can share and play with other people
+- Worlds that users can build and view in AR
+- Towns that would combine worlds so users can collaborate with others
+- Quests that will allow the user to go on adventures to collect items
 
 Other Features to implement:
 - QR code to launch worlds/quests on printable cards or shown on a user's phone 
