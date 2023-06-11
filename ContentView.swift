@@ -5,33 +5,32 @@
 //  Created by Brandon Estevez on 6/11/23.
 //
 
+
+
+
+//main screen
+
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
+        //title, menu and mail icon here
         VStack {
             
             Text("Towny AR")
                 .font(.largeTitle)
                 .padding(.bottom, 10.0)
-                
-            Image(systemName: "globe.americas.fill")
-                .frame(width: 300.0, height: 400.0)
-                .imageScale(.large)
-                .foregroundColor(.green)
-            
-        
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Welcome")
-            
-            
             
         }
-
         
-        .padding()
+        
+        //buttons for 5 aspects here
+        HStack{
+            
+            //ELEMENTS FOR MENU HERE
+        }
+        
     }
 }
 
